@@ -4,11 +4,11 @@
   color: white;
 }
 body {
-  background-image: url(Gods-Eye.jpeg);
+  background: url(inline_image_preview.jpeg);
   background-position: center;
   background-size: cover;
   font-family: sans-serif;
-  margin-top: 40px;
+  height: 100vh;
 }
 
 input[type='text'],
