@@ -212,8 +212,6 @@ button:active {
   text-transform: uppercase;
 }
 
-
-}
 .button,
 .sci {
   --glow-color: rgb(217, 176, 255);
@@ -234,7 +232,8 @@ button:active {
 .button {
   position: relative;
 }
-.button, .sci:hover {
+.button,
+.sci:hover {
   color: var(--btn-color);
   background-color: var(--glow-color);
 }
